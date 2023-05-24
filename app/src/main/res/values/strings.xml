@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">MySubmissionProject</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="menu_about">About</string>
+    <string name="origin">Kota asal</string>
+    <string name="price">Harga</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_activity_label">Detail Makanan</string>
+    <string name="main_activity_label">Makanan Khas Jawa Tengah</string>
+    <string name="share_button">Bagikan Artikel Ini</string>
+    <string name="my_name">Marifan Permadi</string>
+    <string name="my_email">marifanpermadi@gmail.com</string>
+
+
+    <string-array name="foods_name">
+        <item>Tahu Gimbal</item>
+        <item>Tempe Mendoan</item>
+        <item>Lumpia Semarang</item>
+        <item>Tahu Petis</item>
+        <item>Soto Kudus</item>
+        <item>Mie Ongklok</item>
+        <item>Nasi Gandul</item>
+        <item>Soto Sokaraja</item>
+        <item>Lontong Dakem</item>
+        <item>Sate Bumbon</item>
+        <item>Sate Klathak</item>
+        <item>Sate Ambal</item>
+    </string-array>
+
+    <string-array name="foods_description">
+        <item>Tahu Gimbal adalah makanan khas Semarang yang sangat populer karena rasanya yang unik. Walaupun namanya tahu gimbal, makanan ini memiliki isian lainnya loh. Ada irisan kol mentah, tauge, telur, lontong, dan gimbal. Gimbal adalah makanan yang terbuat dari udang yang digoreng dengan tepung dan memiliki rasa yang sangat gurih. Tahu gimbal ini secara sekilas akan terlihat seperti gado-gado, bukan? Yap! Tepat sekali. Seluruh isian tahu gimbal yang tercampur dan siap dihidangkan, akan disirami oleh bumbu kacang yang khas karena dibuat dengan petis udang sehingga rasanya sangat kaya. Saus kacang yang digunakan untuk tahu gimbal dibuat lebih cair atau encer dibandingkan dengan makanan lain yang menggunakan saus kacang juga. Kira-kira kamu akan suka tidak dengan tahu gimbal? Menikmati tahu gimbal paling cocok jika dilengkapi dengan kerupuk sambil minum es teh tawar loh! Wah, kamu pasti akan ketagihan.</item>
+        <item>Siapa yang tidak kenal dengan tempe mendoan? Salah satu makanan khas Jawa Tengah yang sangat populer. Pada dasarnya tempe mendoan ini sama saja dengan tempe goreng lainnya. Hanya saja tempe mendoan ini dilumuri dengan tepung. Hal yang membedakan tempe mendoan dengan tempe goreng tepung yang biasanya adalah pada namanya yaitu mendoan. Selain itu teknik pembuatan tempe ini juga berbeda dengan tempe goreng tepung pada umumnya. Biasanya tempe goreng tepung akan digoreng menggunakan minyak yang sangat banyak dengan api yang panas untuk membuat tekstur dari tepung yang mengikat tempe menjadi garing. Beda dengan tempe mendoan, meskipun digoreng dengan minyak yang banyak dan api yang panas, tetapi tempe mendoan tidak digoreng sampai tepung yang menyelimuti tempe tersebut garing atau setengah matang. Namun, kamu tidak perlu khawatir dengan rasanya. Justru hal inilah yang menjadikan tempe mendoan memiliki ciri khas yang unik. Tempe mendoan memiliki rasa yang sangat lezat dan nagih. Sehingga tidak heran jika makanan yang satu ini sangat banyak dicari dan populer di kalangan wisatawan lokal maupun asing.</item>
+        <item>Apakah kamu tahu ibukota dari Jawa Tengah? Yap! Semarang. Kota Semarang memiliki berbagai macam makanan khas loh. Salah satu makanan khas Semarang adalah lumpia goreng. Makanan yang biasa dijadikan sebagai snack saat acara-acara besar. Dengan kulitnya yang garing, lumpia goreng ini sangat disukai oleh hampir semua orang. Lumpia goreng biasa dipadukan dengan sambal kacang atau cabe rawit untuk orang-orang yang suka pedas. Tetapi, jika kamu ingin memakannya tanpa sambal atau cabe rawit, lumpia ini sudah sangat enak loh. Lumpia merupakan jenis makanan tradisional yang sangat beragam isiannya. Adapun isian dari lumpia goreng ini, antara lain adalah ayam, telur, sayuran, serta udang. Lumpia goreng memang bisa kamu temukan dimana saja. Namun, jika kamu berkunjung dan berlibur ke Semarang, jangan lupa untuk mencoba makanan yang satu ini langsung dari daerah asalnya ya!</item>
+        <item>Tahu petis di Semarang biasa dijadikan sebagai cemilan. Namun, tak jarang juga warga lokal setempat menjadikan tahu Semarang yang disiram bumbu petis ini sebagai lauk yang bisa dimakan bersamaan dengan nasi. Alasan utama mengapa tahu petis dinamakan demikian adalah karena makanan ini terdiri tahu kuning yang digoreng seperti biasanya dan disirami dengan bumbu petis. Bumbu petis ini bukan terbuat dari gula merah dan kacang seperti yang ada pada rujak. Namun, kuah petis ini terbuat dari udang yang dimasak dalam waktu yang sangat lama hingga menjadi kental. Kuah petis bisa menggunakan udang atau ikan, tergantung dari siapa yang memasaknya. Jika kamu pergi ke Semarang, jangan lupa untuk icip-icip tahu Semarang ini ya!</item>
+        <item>Makanan yang bisa disebut dengan comfort food. Dengan kuahnya yang sangat hangat, soto kudus memiliki banyak sekali peminatnya. Jika kamu mendengar dari namanya, kamu sudah pasti tahu bahwa makanan ini berasal dari Kudus, salah satu tempat di Jawa Tengah. Salah satu sajian tradisional yang banyak sekali penggemarnya. Sekarang, kamu tidak perlu pergi jauh ke Jawa Tengah untuk menemukan makanan ini. Banyak sekali cabang soto kudus yang tersebar di wilayah Jakarta, Tangerang, Bogor, Bekasi, Depok, Bandung, dan sekitarnya. Soto kudus ini biasa disajikan dengan mangkuknya yang kecil. Dalam mangkuk tersebut berisi potongan daging (bisa daging kerbau, ayam, atau sapi. Tergantung dari tempat yang menyediakan soto kudus ini), tauge, mie, daun seledri, bawang goreng, nasi dan yang pasti kuah beningnya yang khas. Biasanya, sebagai pelengkap untuk makan ini, akan disediakan perkedel, gorengan, dan sate telur puyuh. Kamu bisa memilih mana yang paling sesuai dengan selera kamu.</item>
+        <item>Jika kamu jalan-jalan dan berkunjung ke Jawa Tengah, jangan lupa untuk mencicipi mie ongklok ya. Mie ongklok ini adalah salah satu makanan yang terkenal dengan kelezatannya di kalangan wisatawan lokal maupun mancanegara. Mie ongklok sendiri adalah makanan yang terdiri dari mie kuning yang direbus dan ditambahkan berbagai macam bahan lainnya. Tambahan dari mie ongklok sendiri biasanya ada irisan kol dan daun kucai. Mie ini memiliki tekstur kuah yang sangat kental. Hal tersebut dikarenakan tepung kanji yang dilarutkan untuk membuat kuah mie ongklok ini menjadi kental. Kuah mie ongklok memang sedikit lebih kental dibandingkan dengan kuah mie pada umumnya. Namun, kamu jangan khawatir kuah kental mie ongklok ini sangat enak loh. Saat memakan mie ongklok kamu bisa menambahkan menu pendamping seperti tempe kemul, sate sapi ataupun keripik tahu yang bisa membuat makanan kamu semakin lezat. Sebelumnya, tahukah kamu mengapa namanya menggunakan kata ongklok? Yap! Hal ini dikarena proses memasak mie ini yang menggunakan ongklok. Ongklok adalah sebuah saringan yang terbuat dari bambu yang digunakan untuk merebus mie dalam kuah kental ini.</item>
+        <item>Nasi gandul atau yang biasa disebut dengan Sego Gandul (sega ghandul dalam bahasa Jawa), adalah makanan khas daerah Pati yang ada di Jawa Tengah. Sepintas makanan ini mirip dengan gulai dan semur daging sapi. Nasi gandul juga terlihat seperti makanan yang memiliki perpaduan antara soto dan gulai dengan kuah yang berwarna kecoklatan yang rasanya sangat gurih dan manis. Kuliner khas Pati (daerah pesisir Jawa Tengah) ini terkenal akibat Desa Gajahmati. Oleh karena itu, nama dari nasi gandul ini sering disebut-sebut sebagai nasi gandul gajah mati. Meskipun makanan ini bukan berasal dari daerah tersebut, tetapi banyak pedagang yang berjualan nasi gandul dan tetap mencantumkan nama gajah mati pada spanduk tempat makan mereka. Jika kamu berkunjung ke Jawa Tengah, jangan lupa untuk mencicipi nasi gandul ini ya. Banyak sekali rekomendasi tempat makan dari nasi gandul. Pada awalnya, nasi gandul diperkenalkan oleh Warung Nasi Gandul Pak Meled.</item>
+        <item>Makanan khas Jawa Tengah lainnya adalah soto sokaraja. Soto sokaraja ini berasal dari daerah Sokaraja dan Banyumas, di Jawa Tengah. Soto daging ini disajikan dengan lontong, taburan kerupuk kanji merah, dan siraman sambal kacang yang gurih. Pertama kali kamu mencicipi soto sokaraja ini, kamu pasti akan ketagihan akan rasanya yang sangat gurih. Rasanya yang unik membuat wisatawan lokal dan wisatawan asing tertarik dengan mencicipi soto sokaraja ini. Ciri khas dari soto ini adalah sambel kacangnya yang tak terlalu pedas. Sehingga orang yang mau mencicipinya bisa menambahkan sambel ini sesukanya karena tidak terpedas. Selain itu, tidak lengkap mencicipi soto sokaraja ini tanpa kerupuk cantir yang berwarna merah muda. Kerupuk ini akan disiram dengan kuah panas soto sokaraja yang membuatnya lembek. Mungkin bagi sebagian orang, kerupuk akan dimakan garing-garing untuk menambah tekstur makanan. Namun, dalam soto sokaraja ini, kerupuk yang lembek karena disiram ini akan menambahkan cita rasa yang sangat unik pada kuah soto. Sehingga, kuah soto akan semakin enak dan memikat. Jadi, jangan lewatkan untuk mencicipi kuliner yang satu ini ya.</item>
+        <item>Makanan khas Jawa Tengah yang mungkin terdengar cukup asing di telinga kamu. Hal ini karena makanan ini terbilang cukup legendaris. Lontong Dakem adalah sajian khas Pemalang yang sangat direkomendasikan saat kamu berlibur ke Jawa Tengah. Kuliner yang satu ini disebut dengan Lontong Dakem, karena cara penyajiannya yang sangat unik. Pertama-tama, lontong akan disiram dengan kuah santan yang panas dan gurih. Kemudian, kuah akan dituang kembali. Hal ini dilakukan guna membuat lontong menjadi hangat. Hal tersebut dilakukan selama beberapa kali. Kemudian, setelah lontong menjadi hangat, lontong akan diletakan di mangkuk dan kembali disiram dengan kuah santan panasnya sampai lontong tersebut direndam dengan sempurna. Dalam bahasa Pemalang, kata “dekem” memiliki arti terendam dengan sempurna. Oleh karena itu, lontong yang diletakkan dalam mangkuk akan terendam dengan sempurna seperti namanya. Kuah yang terbuat dari santan ini dilengkapi dengan berbagai macam rempah yang membuat kuah ini kaya dengan rasa. Sehingga rasa kuah dari lontong dakem ini sangat gurih dan lezat.</item>
+        <item>Salah satu makanan khas Jawa Tengah berikut ini adalah sate. Sate ini dikenal dengan sate Bumbon. Sate bumbon merupakan kuliner khas Kendal, Jawa Tengah yang cukup terkenal dan kerap menjadi buruan wisatawan yang berlibur ke daerah ini. Sate ini berbeda dengan sate pada umumnya. Sate ini terbuat dari daging sapi segar yang dibakar. Sebelum proses pembakaran, sate ini harus mengalami beberapa proses terlebih dahulu. Sate ini harus dibumbui dengan rempah-rempah agar menghasilkan cita rasa yang kaya. Selain itu, proses pembumbuan ini membuat sate juga memiliki daging yang lembut. Hal tersebut sesuai dengan namanya, yaitu bumbon. Kata bumbon memiliki arti sebagai makanan yang diberi bumbu terlebih dahulu sebelum dibakar. Sate bumbon ini memiliki rasa yang sangat kuat dengan rempah-rempah. Namun, tetap terasa nikmat dan tidak membuat sate ini menjadi aneh karena rempah-rempah tersebut.</item>
+        <item>Salah satu makanan khas Jawa Tengah yang banyak diburu oleh wisatawan. Makanan ini tak kalah populer dengan makanan khas Jawa Tengah lainnya loh. Sate klathak terbuat dari daging kambing muda. Kamu tak perlu takut dengan bau yang tak sedap dari kambing, karena daging kambing yang digunakan adalah daging kambing muda. Selain tidak memiliki bau, daging kambing muda ini tidak membuat kamu yang memakannya akan kolesterol. Sate ini memiliki ciri khas yaitu cara pengolahannya. Sate ini hanya dibumbui dengan garam saja. Meskipun begitu, rasa sate ini sangat enak hingga membuat wisatawan sangat tertarik dengan rasanya. </item>
+        <item>Salah satu menu andalan sate lainnya dari sate ambal. Sate ambal berasal dari Jawa Tengah yang tak kalah nikmat untuk dicoba adalah sate ambal. Sate ambal merupakan sajian Ambal, Kebumen, dan menjadi salah satu kuliner paling digemari. Sate ini terbuat dari daging ayam pilihan yang dibumbui dengan bumbu kuning. Jika diperhatikan, sate ambal ini terlihat sekilas mirip dengan sate padang. Namun, tetap saja sate ini berbeda. Bu,nu kuning dari sate ambal ini dibuat dari tempe rebus yang dihaluskan. Sehingga ketika kamu mencicipinya, kamu akan bisa langsung merasakan tekstur tempe yang membuat cita rasa dari sate ini semakin bertambah.</item>
+    </string-array>
+
+    <integer-array name="foods_photo">
+        <item>@drawable/tahu_gimbal</item>
+        <item>@drawable/tempe_mendoan</item>
+        <item>@drawable/lumpia_semarang</item>
+        <item>@drawable/tahu_petis</item>
+        <item>@drawable/soto_kudus</item>
+        <item>@drawable/mie_ongklok</item>
+        <item>@drawable/nasi_gandul</item>
+        <item>@drawable/soto_sokaraja</item>
+        <item>@drawable/lontong_dakem</item>
+        <item>@drawable/sate_bumbon</item>
+        <item>@drawable/sate_klathak</item>
+        <item>@drawable/sate_ambal</item>
+    </integer-array>
+
+    <string-array name="foods_price">
+        <item>Mulai dari Rp. 10.000</item>
+        <item>Mulai dari Rp. 1.000</item>
+        <item>Mulai dari Rp. 3.000</item>
+        <item>Mulai dari Rp. 10.000</item>
+        <item>Mulai dari Rp. 15.000</item>
+        <item>Mulai dari Rp. 10.000</item>
+        <item>Mulai dari Rp. 12.000</item>
+        <item>Mulai dari Rp. 15.000</item>
+        <item>Mulai dari Rp. 8.000</item>
+        <item>Mulai dari Rp. 15.000</item>
+        <item>Mulai dari Rp. 15.000</item>
+        <item>Mulai dari Rp. 15.000</item>
+    </string-array>
+
+    <string-array name="foods_origin">
+        <item>Asal Semarang</item>
+        <item>Asal Banyumas</item>
+        <item>Asal Semarang</item>
+        <item>Asal Semarang</item>
+        <item>Asal Kudus</item>
+        <item>Asal Wonosobo</item>
+        <item>Asal Pati</item>
+        <item>Asal Sokaraja</item>
+        <item>Asal Pemalang</item>
+        <item>Asal Kendal</item>
+        <item>Asal Bantul</item>
+        <item>Asal Kebumen</item>
+    </string-array>
+</resources>
